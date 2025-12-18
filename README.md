@@ -278,17 +278,6 @@ Client A                    Server                      Client B
 4. Log connections for monitoring
 5. Add optional room passwords
 
-## 🚀 Future Enhancements
-
-- [ ] End-to-end encryption support
-- [ ] Room passwords for private conversations
-- [ ] Support for 3+ clients (group chat)
-- [ ] Message persistence (Redis/Database)
-- [ ] Rate limiting and abuse prevention
-- [ ] WebRTC signaling for direct peer connections
-- [ ] Admin dashboard for monitoring
-- [ ] Automatic room cleanup after inactivity
-
 ## 👨‍💻 Author
 
 **Abdulwahab Alnemer**
